@@ -1,4 +1,4 @@
-#About
+# About
 
 - Passionate software engineer who loves integrating creativity with logic.
 - Have 3+ years of experience and have worked on more than 30+ projects.
