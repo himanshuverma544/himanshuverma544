@@ -1,11 +1,22 @@
-{
+{ 
+  "Year": 2023,
+
   "10 Aug": {
     "Node JS": "Learned about Node JS",
-    "Keys": "Learned about keys",
-    "Researched about the eCommerce project as per requirements": "Researched about the eCommerce project as per requirements"
+    "Keys": "Learned about database keys",
+    "Researched the eCommerce project as per requirements": "Researched with ChatGPT"
   },
+
   "11 Aug": {
-    "Setup the project": "Setup the project",
-    "Clear doubts": "Cleared doubts"
-  }
+    "Database and its Queries": "Cleared doubts regarding the database and various queries",
+    "Relationships(Referential Integrity) - foreign key": "one-to-one, one-to-many, many-to-one, many-to-many; with examples", 
+    "ER Diagram": "Found the site dbdiagram.io to create ER Diagrams of database using DSL(Domain Specific Language)",
+    "Express Framework": "Took a quick overview of Express Framework",
+    "Other Frameworks": "Understands why Nest JS, Next JS, and GatsBy came into the picture"
+  },
+
+  "12 Aug": {
+    "ACID": "Transisitons",
+    
+  },
 }
