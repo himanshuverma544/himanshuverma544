@@ -17,6 +17,14 @@
 
   "12 Aug": {
     "ACID": "Transisitons",
-    
+    "Junction Table": "Need of junction table",
+    "DBMS Languages and their commands": "DDL, DML, DQL, DCL, TCL",
+    "Required Tables": "Gathering information of required tables for eCommerce site",
+    "Making Schema": "Created Schema using DSL which generated a kind of ER diagram and established the relationship",
+    "Payment Failure": "Managing and Handling payment failure - Theoretical Understanding"
   },
+
+  "13 Aug": {
+    "Setting up the project": "Created MERN Stack project on VS Code",
+  }
 }
