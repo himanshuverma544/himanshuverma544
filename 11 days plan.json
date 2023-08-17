@@ -1,13 +1,13 @@
 { 
   "Year": 2023,
 
-  "10 Aug": {
+  "10 AUG": {
     "Node JS": "Learned about Node JS",
     "Keys": "Learned about database keys",
     "Researched the eCommerce project as per requirements": "Researched with ChatGPT"
   },
 
-  "11 Aug": {
+  "11 AUG": {
     "Database and its Queries": "Cleared doubts regarding the database and various queries",
     "Relationships(Referential Integrity) - foreign key": "one-to-one, one-to-many, many-to-one, many-to-many; with examples", 
     "ER Diagram": "Found the site dbdiagram.io to create ER Diagrams of database using DSL(Domain Specific Language)",
@@ -15,7 +15,7 @@
     "Other Frameworks": "Understands why Nest JS, Next JS, and GatsBy came into the picture"
   },
 
-  "12 Aug": {
+  "12 AUG": {
     "ACID": "Transisitons",
     "Junction Table": "Need of junction table",
     "DBMS Languages and their commands": "DDL, DML, DQL, DCL, TCL",
@@ -24,25 +24,33 @@
     "Payment Failure": "Managing and Handling payment failure - Theoretical Understanding"
   },
 
-  "13 Aug": {
+  "13 AUG": {
     "When to use Increment": "When you should use increment in your primary keys",
     "Setting up the project": "Created MERN Stack project on VS Code",
   },
 
-  "14 Aug": {
+  "14 AUG": {
     "Understanding the project directory structure": "Watched several youtube videos and followed the MVC structure",
     "Setting up the MYSQL": "Setting up the MYSQL using MYSQL client"
   },
 
-  "15 Aug": {
+  "15 AUG": {
     "Finding MYSQL GUI option": "Tried MYSQL VS Code extension, watched videos, also, looked for cloud setting up the MYSQL on a cloud",
-    "Planning ahead": "Planned the e-commerce project ahead and planned to watch the video to integrate Strip by Hitesh Choudhary"
+    "Planning": "Planned the e-commerce project and planned to watch the video to integrate Strip by Hitesh Choudhary"
   },
 
-  "16 Aug": {
+  "16 AUG": {
     "Continued looking for MYSQL": "Finding the right option",
+    "MYSQL VS Code Extension": "Found the right extension for MySQL, created the required table from the schema and filled the products and coupons table",
     "Watching Strip Integration video": "By Hitesh Choudhary",
-    "JWT Authentication video": "Watched JWT Authentication Video",
+    "JWT Authentication video": "Watched JWT Authentication Video by Hitesh Choudhary",
+    "Understanding Precautions with JWT": "JWT expiry and how to take care of the token, regenerating new token"
+  },
+
+"17 AUG": {
+  "Started the development on the backend": "Created the API to get products, tested the API",
+  "Started the development on the frontend",
+}
 
 
 
