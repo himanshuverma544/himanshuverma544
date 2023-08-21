@@ -69,11 +69,26 @@
   },
 
   "Day 11 -> Sun, 20 AUG": {
-    
+    "Frontend Development": [
+      "Created the cart Page template",
+      "Styled the cart page and made it look well",
+      "refactoring the code"
+    ]
   },
   
   "Day 12 -> Mon, 21 AUG": {
-    
+    "Frontend Development": [
+      "Created the checkout page template",
+      "Styled the checkout page and made it look well",
+    ],
+    "JWT": [
+      "Researched more on JWT",
+      "Understand its hows and why's",
+      "Understand the need for refresh and access tokens"
+    ],
+    "Backend Development": [
+      
+    ]
   },
   
   "Day 13 -> Tue, 22 AUG": {
