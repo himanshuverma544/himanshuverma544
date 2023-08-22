@@ -80,6 +80,7 @@
     "Frontend Development": [
       "Created the checkout page template",
       "Styled the checkout page and made it look well",
+      "Started making the post request for Sign in and Sign up"
     ],
     "JWT": [
       "Researched more on JWT",
@@ -87,12 +88,18 @@
       "Understand the need for refresh and access tokens"
     ],
     "Backend Development": [
-      
+      "Created controllers",
+      "Organized and refactored the code as per standard"
     ]
   },
   
   "Day 13 -> Tue, 22 AUG": {
-  
+    "Frontend": [
+      "Authentication"
+    ],
+    "Backend": [
+      "Authentication"
+    ]
   },
   
   "Day 14 -> Wed, 23 AUG": {
