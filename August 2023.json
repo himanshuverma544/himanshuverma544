@@ -1,5 +1,4 @@
-
-
+{
   "Day 1 -> Thurs, 10 AUG": {
     "Node JS": "Learned about Node JS",
     "Keys": "Learned about database keys",
@@ -99,4 +98,5 @@
     "Backend": [
       "Authentication"
     ]
-  },
+  }
+}
