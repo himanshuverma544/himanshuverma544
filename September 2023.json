@@ -3,16 +3,22 @@
     "Getting Started": "Starting again, after the break"
   },
 
-  "Day 2 -> Mon, 08 SEP": {
-    "Studying further": "Did research and understand the requirments of the ecommerce project",
+  "Day 2 -> Fri, 08 SEP": {
+    "Studying further": "Did research and understand the requirements of the e-commerce project",
     "Things Needed and Understood": [
       "Shipping Details Table", 
       "Handling Adding of product to cart from homepage",
       "Handling Taxes",
-      "Single Product page - Reviews, Handling Add to Cart",
+      "Single Product Page - Reviews, Handling Add to Cart",
       "Mini Cart - Optional",
       "CMS for Admin",
       "Filter Page and Search Option - Optional"
     ]
   },
+
+  "Day 3 -> Sun, 10 SEP": {
+    "Researched on Restaurant Management App ": "Did deep research on the Restaurant Management App using ChatGPT",
+    "Estimate": "Calculated estimate of the project which comes out to be 1,200 to 2,250+ hours",
+    "Cost per Hour": "200-400 INR / Hour as per Fresher Mern Stack Developer"
+  }
 }
