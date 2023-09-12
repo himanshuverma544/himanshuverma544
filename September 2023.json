@@ -17,8 +17,13 @@
   },
 
   "Day 3 -> Sun, 10 SEP": {
-    "Researched on Restaurant Management App ": "Did deep research on the Restaurant Management App using ChatGPT",
+    "Researched on Restaurant Management App": "Did deep research on the Restaurant Management App using ChatGPT",
     "Estimate": "Calculated estimate of the project which comes out to be 1,200 to 2,250+ hours",
     "Cost per Hour": "200-400 INR / Hour as per Fresher Mern Stack Developer"
+  },
+
+  "Day 4 -> Tue, 11 SEP": {
+    "Discussed the idea with the client - Ankit Shrestha - Owner of the Riders Cafe": "Got approval",
+    "Getting Ready to Build the App" - "Discussed other details such as estimate, design, technology and billing details"
   }
 }
