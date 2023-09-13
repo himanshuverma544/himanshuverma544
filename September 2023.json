@@ -22,8 +22,17 @@
     "Cost per Hour": "200-400 INR / Hour as per Fresher Mern Stack Developer"
   },
 
-  "Day 4 -> Tue, 11 SEP": {
+  "Day 4 -> Mon, 11 SEP": {
     "Discussed the idea with the client - Ankit Shrestha - Owner of the Riders Cafe": "Got approval",
-    "Getting Ready to Build the App": "Discussed other details such as estimate, design, technology and billing details"
+    "Getting Ready to Build the App": "Discussed other details such as estimate, design, technology and billing details",
+  },
+
+  "Day 5 -> Tue, 12 SEP": {
+    "Compared Freelancer Sites": "Compared different freelancing sites such as Upwork and Freelancer, and calculated the pros and cons",
+    "Setup the Upwork": "Spend time setting up the profile on Upwork and exploring it"
+  },
+  
+  "Day 6 -> Wed, 13 SEP": {
+    "Focusing back on e-commerce website": "For the interview in smartData, focusing back on the e-commerce project."
   }
 }
