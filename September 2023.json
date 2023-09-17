@@ -37,6 +37,10 @@
   },
 
   "Day 7 -> Thu, 14 SEP": {
-    "Planned when a user adds items to the cart": "Took care of the frontend and backend"
+    "Planned when a user adds items to the cart": "Took care of the frontend and backend",
+  },
+
+  "Day 8 -> Sun, 16 SEP": {
+    "Planned Cart Page": "Understand and figure out how data will flow and display on the cart page"
   },
 }
