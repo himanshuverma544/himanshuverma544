@@ -43,4 +43,9 @@
   "Day 8 -> Sun, 16 SEP": {
     "Planned Cart Page": "Understand and figure out how data will flow and display on the cart page"
   },
+  
+  "Day 9 -> Wed, 20 SEP": {
+    "Understand junction table need": "Understand the need of junction table for the tables which contain static data",
+    "Given the right name to table": "Gave the name to the table order_details"
+  },
 }
