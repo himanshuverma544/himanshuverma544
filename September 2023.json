@@ -48,4 +48,8 @@
     "Understand junction table need": "Understand the need of junction table for the tables which contain static data",
     "Given the right name to table": "Gave the name to the table order_details"
   },
+
+"Day 10 -> Sat, 30 SEP": {
+  "Planned Purchasing of Item": "How things should flow when the user purchases an item",
+  "Planned when a user checks its orders": "Wrote the different queries to get the order details of the user"
 }
