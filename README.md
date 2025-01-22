@@ -1,3 +1,10 @@
+# About
+
+- Devoted software engineer who loves integrating ideas with creativity and logic.
+- Have 4+ years of experience and have worked on over 20+ projects.
+- What's keeping me up these days - MERN Stack and a vision to create innovative apps.
+
+
 # Quick Projects Showcase
 
 1. [Ecommerce - Artificial Jewellery](https://www.jiaarajewellery.com/)  
@@ -29,11 +36,3 @@
 
 10. [English Grammar MCQs - App](https://singular-bombolone-a71b23.netlify.app/)  
     - Tech Stack: React, TailwindCSS, Gemini API
-
-
-
-# About
-
-- Devoted software engineer who loves integrating ideas with creativity and logic.
-- Have 4+ years of experience and have worked on over 20+ projects.
-- What's keeping me up these days - MERN Stack and a vision to create innovative apps.
