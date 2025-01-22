@@ -1,9 +1,9 @@
 # Quick Projects Showcase
 
-1. [Ecommerce](https://www.jiaarajewellery.com/)  
+1. [Ecommerce - Artificial Jewellery](https://www.jiaarajewellery.com/)  
    - Tech Stack: Next JS, Headless WordPress, Tailwind CSS
 
-2. [Ecommerce](https://www.rlvnt.life)  
+2. [Ecommerce - Eyewear Glasses](https://www.rlvnt.life)  
    - Tech Stack: WordPress
 
 3. [Tradeflix Alternate Website](https://tradeflix-alternate-clone.vercel.app/)  
