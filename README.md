@@ -5,7 +5,6 @@
 - What's keeping me up these days - MERN Stack and a vision to create innovative apps.
 
 
-
 # Quick Projects Showcase
 
 1. [Ecommerce - Artificial Jewellery](https://www.jiaarajewellery.com/)  
