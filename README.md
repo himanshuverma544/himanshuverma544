@@ -5,7 +5,7 @@
 - What's keeping me up these days - MERN Stack and a vision to create innovative apps.
 
 
-# Sample Projects Showcase
+# Sample Projects
 
 1. [Ecommerce - Artificial Jewellery](https://www.jiaarajewellery.com/)  
    - Tech Stack: Next JS, Headless WordPress, Tailwind CSS
