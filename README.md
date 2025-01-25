@@ -12,6 +12,7 @@
    - Tech Stack: Next JS, Headless WordPress, Tailwind CSS
    - [Live Demo](https://www.jiaarajewellery.com/)
 
+
 2. [RLVNT - E-commerce](https://www.rlvnt.life)  
    - Description: E-commerce platform for eyewear glasses.
    - Tech Stack: WordPress
