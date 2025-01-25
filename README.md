@@ -56,7 +56,7 @@
 9. [Sci-Flix - Movie App](https://himanshuverma544.github.io/Sci-Flix-Movie-App/)
    - Description: Developed this app to share insights on everyone's favourite Sci-Fi movies.
    - Tech Stack: React, Bootstrap, Movies API
-   - [Live Demo]([Live Demo](https://himanshuverma544.github.io/Sci-Flix-Movie-App/))
+   - [Live Demo](https://himanshuverma544.github.io/Sci-Flix-Movie-App/))
    - [Source Code](https://github.com/himanshuverma544/Sci-Flix-Movie-App/)
 
 10. [English Grammar MCQs - App](https://singular-bombolone-a71b23.netlify.app/)
