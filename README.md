@@ -69,7 +69,7 @@
 
 
 10. [English Grammar MCQs - App](https://singular-bombolone-a71b23.netlify.app/)
-    - Description: English Grammar MCQs, generated using Gemni API.
+    - Description: English Grammar MCQs, generated using Gemini API.
     - Tech Stack: React, TailwindCSS, Gemini API
     - [Live Demo](https://singular-bombolone-a71b23.netlify.app/)
     - [Source Code](https://github.com/himanshuverma544/English-Grammar-MCQs)
