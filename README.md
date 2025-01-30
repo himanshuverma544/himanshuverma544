@@ -7,7 +7,7 @@
 
 # Sample Projects
 
-1. [Jiaara Jewellery - E-commerce](https://www.jiaarajewellery.com/)  
+1. [Jiaara Jewellery - E-commerce](https://www.jiaara-jewellery-clone.vercel.app//)  
    - Description: E-commerce platform for Artificial Jewellery items.
    - Tech Stack: Next JS, Headless WordPress, Tailwind CSS
    - [Live Demo](https://www.jiaarajewellery.com/)
