@@ -1,9 +1,9 @@
 <img width="1502" height="352" alt="Quote (GitHub)" src="https://github.com/user-attachments/assets/1449fa13-8cbe-4993-ab8c-7d26e9df1a02" />
 
-<br>Senior Software Engineer with 5+ years of experience across full stack, frontend, backend, and AI-driven systems.<br>  
+<br>Senior Software Engineer with 5+ years of experience across full stack, frontend, backend, and AI-driven systems.  
 
 
-### Tech Stack
+<br>### Tech Stack
 
 <br>**Programming Languages**<br>  
 `JavaScript` · `TypeScript` · `Python` · `SQL`
