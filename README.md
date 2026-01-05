@@ -8,21 +8,21 @@
 <br>**Programming Languages**<br>  
 `JavaScript` · `TypeScript` · `Python` · `SQL`
 
-<br>**Frameworks & Libraries**<br>  
+<br><br>**Frameworks & Libraries**<br>  
 `Next.js` · `React.js` · `Redux Toolkit` · `React Query` · `Express.js`
 <br>  
 `FastAPI` · `LangChain` · `Playwright`
 <br>  
 `Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
 
-<br>**Databases & Storage**<br>  
+<br><br>**Databases & Storage**<br>  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
 
-<br>**Cloud & Deployment**<br>  
+<br><br>**Cloud & Deployment**<br>  
 `AWS (basic)` · `Oracle Cloud` · `Vercel` · `Netlify` · `GitHub Pages` · `Domain & Hosting`
 
-<br>**Tools**<br>  
+<br><br>**Tools**<br>  
 `Git` · `Figma` · `VS Code` · `Postman` · `Docker` · `Sentry` · `Cursor` · `Gemini AI` · `ChatGPT`
 
-<br>**Project Management**<br>  
+<br><br>**Project Management**<br>  
 `Jira` · `Trello` · `Asana` · `Notion` · `GitHub Projects`
