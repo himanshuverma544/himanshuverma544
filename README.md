@@ -14,7 +14,7 @@ Building scalable full-stack and AI-driven systems with 5+ years of experience.
 
 <br>**Frameworks & Libraries**<br>  
 `Next JS` · `React JS` · `Redux Toolkit` · `React Query` · `Express JS`<br>  
-`FastAPI` · `LangChain` · `Playwright`<br>
+`FastAPI` · `LangChain` · `Playwright`<br>  
 `Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
 
 
