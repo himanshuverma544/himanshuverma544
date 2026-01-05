@@ -3,7 +3,7 @@
 <br>Senior Software Engineer with 5+ years of experience across full stack, frontend, backend, and AI-driven systems.<br>  
 
 
-###Tech Stack
+### Tech Stack
 
 <br>**Programming Languages**<br>  
 `JavaScript` · `TypeScript` · `Python` · `SQL`
