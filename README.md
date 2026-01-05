@@ -12,21 +12,17 @@ Building scalable full-stack and AI-driven systems with 5+ years of experience.
 <br>**Programming Languages**<br>  
 `JavaScript` · `TypeScript` · `Python` · `SQL`
 
-<br><br>**Frameworks & Libraries**<br>  
-`Next.js` · `React.js` · `Redux Toolkit` · `React Query` · `Express.js`
-<br>  
-`FastAPI` · `LangChain` · `Playwright`
-<br>  
-`Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
+<br>**Frameworks & Libraries**<br>  
+`Next.js` · `React.js` · `Redux Toolkit` · `React Query` · `Express.js` · `FastAPI` · `LangChain` · `Playwright` · `Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
 
-<br><br>**Databases & Storage**<br>  
+<br>**Databases & Storage**<br>  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
 
-<br><br>**Cloud & Deployment**<br>  
+<br>**Cloud & Deployment**<br>  
 `AWS (basic)` · `Oracle Cloud` · `Vercel` · `Netlify` · `GitHub Pages` · `Domain & Hosting`
 
-<br><br>**Tools**<br>  
+<br>**Tools**<br>  
 `Git` · `Figma` · `VS Code` · `Postman` · `Docker` · `Sentry` · `Cursor` · `Gemini AI` · `ChatGPT`
 
-<br><br>**Project Management**<br>  
+<br>**Project Management**<br>  
 `Jira` · `Trello` · `Asana` · `Notion` · `GitHub Projects`
