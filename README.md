@@ -2,7 +2,7 @@
 
 
 ### Senior Software Engineer  
-Building scalable full-stack and AI-driven systems with 5+ years of experience
+Building scalable full-stack and AI-driven systems with 5+ years of experience.<br>
 
 
 ### Tech Stack
