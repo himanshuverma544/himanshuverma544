@@ -5,11 +5,15 @@
 
 ### Tech Stack
 
-**Programming Languages**<br>  
+<br>**Programming Languages**<br>  
 `JavaScript` · `TypeScript` · `Python` · `SQL`
 
 <br>**Frameworks & Libraries**<br>  
-`Next.js` · `React.js` · `Redux Toolkit` · `React Query` · `Express.js` · `FastAPI` · `LangChain` · `Playwright` · `Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
+`Next.js` · `React.js` · `Redux Toolkit` · `React Query` · `Express.js`
+<br>  
+`FastAPI` · `LangChain` · `Playwright`
+<br>  
+`Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
 
 <br>**Databases & Storage**<br>  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
