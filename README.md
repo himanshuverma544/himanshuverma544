@@ -13,7 +13,9 @@ Building scalable full-stack and AI-driven systems with 5+ years of experience.
 `JavaScript` · `TypeScript` · `Python` · `SQL`
 
 <br>**Frameworks & Libraries**<br>  
-`Next.js` · `React.js` · `Redux Toolkit` · `React Query` · `Express.js` · `FastAPI` · `LangChain` · `Playwright` · `Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
+<div style="line-height: 1.8;">
+  `Next JS` · `React JS` · `Redux Toolkit` · `React Query` · `Express JS` · `FastAPI` · `LangChain` · `Playwright` · `Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
+</div>
 
 <br>**Databases & Storage**<br>  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
