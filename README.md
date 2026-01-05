@@ -18,7 +18,7 @@ Building scalable full-stack and AI-driven systems with 5+ years of experience.
 `Material UI` · `React-Bootstrap` · `Reactstrap` · `Tailwind CSS` · `Bootstrap`
 
 
-<br>**Databases & Storage**<br>  
+<br>**Databases, Storage & WordPress**<br>  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
 
 <br>**Cloud & Deployment**<br>  
