@@ -3,7 +3,7 @@
 <br><br>
 
 ### Senior Software Engineer  
-Building scalable full-stack and AI-driven systems with 5+ years of experience.
+Full Stack Engineer with expertise in scalable web applications, backend systems, AI-powered workflows and browser extensions.
 
 <br>
 
